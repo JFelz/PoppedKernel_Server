@@ -1,0 +1,7 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+dj-rest-auth
+django-allauth
+django-environ
+psycopg[binary]
